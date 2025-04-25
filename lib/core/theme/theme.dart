@@ -38,10 +38,10 @@ final ThemeData darkTheme = ThemeData(
     onSecondary: Color(0xffdfe6e9),
     tertiary: Color(0xff0984e3),
     onTertiary: Colors.white,
-    /*
-    By default surface applies to
-    ElevatedButton,
 
+    /*
+    By default `surface` applies to
+    ElevatedButton's background,
     */
     surface: Color(0xff636e72),
     onSurface: Colors.white,
